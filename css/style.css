@@ -349,3 +349,9 @@ tr:nth-child(even) td{background:var(--g50)}
 /* contrast: darker action red (4.5:1+ with white text) */
 :root{--red:#d40000}
 .eb{background:#d40000}
+/* contrast round 2 */
+.lead-form .lf-note{color:var(--g600)}
+.fc a{color:rgba(255,255,255,.78)}
+.tl{color:rgba(255,255,255,.8)}
+.fb p{color:rgba(255,255,255,.85)}
+.fb2 p{color:rgba(255,255,255,.8)}
