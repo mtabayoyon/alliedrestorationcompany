@@ -338,3 +338,14 @@ tr:nth-child(even) td{background:var(--g50)}
 .checklist li::before { content:"✓";color:#1D9E75;font-weight:700;font-size:16px;flex-shrink:0;margin-top:1px }
 .checklist-red li::before { content:"✗";color:var(--red) }
 
+
+/* a11y + perf appendix */
+.wi h3{font-weight:700;color:var(--blue);margin-bottom:4px;font-size:15px}
+.step h3{font-weight:700;color:var(--blue);margin-bottom:6px;font-size:17px}
+.sbox h3{font-weight:700;color:var(--blue);margin-bottom:12px;font-size:14px;text-transform:uppercase;letter-spacing:.06em}
+.card-box h3{font-weight:700;color:var(--blue);margin-bottom:8px;font-size:17px}
+.nc2 h3{font-weight:700;color:var(--blue);font-size:15px;margin-bottom:3px}
+.fc h3{font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.12em;color:#fff;margin-bottom:14px}
+/* contrast: darker action red (4.5:1+ with white text) */
+:root{--red:#d40000}
+.eb{background:#d40000}
