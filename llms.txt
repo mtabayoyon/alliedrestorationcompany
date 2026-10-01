@@ -47,6 +47,8 @@ Key facts: 24/7/365 live dispatch statewide; direct insurance billing with Xacti
 ## Company
 
 - [About Allied Restoration](https://www.alliedrestorationcompany.com/about/): history, certifications, and the Allied Rental Company relationship
+- [Nationwide Partner Markets](https://www.alliedrestorationcompany.com/partners/): expansion partner recruiting in all 50 states — state pages at /partners/<state>/
+- [Nationwide Partner Markets](https://www.alliedrestorationcompany.com/partners/): expansion partner recruiting in all 50 states — state pages at /partners/<state>/
 - [Partner With Us](https://www.alliedrestorationcompany.com/partners/): expansion partnerships for operators, contractors, and owners planning an exit
 - [Contact and Dispatch](https://www.alliedrestorationcompany.com/contact/): 24/7 emergency line (415) 529-5637, email dispatch@teamallied.co
 - [All Locations](https://www.alliedrestorationcompany.com/locations/): every California metro served
